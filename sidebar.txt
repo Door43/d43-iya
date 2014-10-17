@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iya:home|Door43 (iya)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iya|d43-iya repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iya/archive/master.zip|d43-iya.zip]]
+
+**Recent Changes**
+{{changes>ns = iya}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iya|Ethnologue data]]
+
